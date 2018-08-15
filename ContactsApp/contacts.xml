@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Jim</first_name>
+	<last_name>Hughes</last_name>
+	<phone_number>12345</phone_number>
+	<notes>asdkfj aksdmcmapwoe opasdc aksldjcmasldk qwo kalskcmaskjlapw poweialsjdm aposdfmcmaksdpaoisd</notes>
+</contact>
+<contact>
+	<first_name>Christopher</first_name>
+	<last_name>Ranella</last_name>
+	<phone_number>586-996-2747</phone_number>
+	<notes>Ballin' motherfucker</notes>
+</contact>
+<contact>
+	<first_name>Bugs</first_name>
+	<last_name>Bunny</last_name>
+	<phone_number>555-555-6666</phone_number>
+	<notes>What's up Doc?</notes>
+</contact>
+</contacts>
